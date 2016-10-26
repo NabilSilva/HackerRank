@@ -1,10 +1,4 @@
-//xor-and-sum.cpp
-//Xor and Sum
-//101 Hack July'14
-//Author: derekhh
-
-#include<iostream>
-#include<string>
+#include <bits/stdc++.h>
 using namespace std;
 
 string sa, sb;
